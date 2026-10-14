@@ -11,9 +11,9 @@ from smart-card and biometric access control to offline-first desktop apps and A
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**gate-pass-system**](https://github.com/Arupkumarpaul/gate-pass-system) | Hostel gate in/out system: students tap their ID card and a fingerprint; live dashboards for guards and the hostel office, curfew rules, late-return email alerts, works through network outages | Python · FastAPI · SQLite · WebSockets · Docker |
-| [**mess-attendance**](https://github.com/Arupkumarpaul/mess-attendance) | Offline meal attendance for 4 messes: reads roll number, name and photo directly from the ID card chip; detects duplicates and expired cards; admin reports | Python · Flask · Electron · SQLite · NFC |
-| [**jarvis-voice-assistant**](https://github.com/Arupkumarpaul/jarvis-voice-assistant) | Voice AI assistant with an offline wake word, speech in and out, and tool use | Python · Claude API · Vosk · ONNX |
+| **gate-pass-system** | Hostel gate in/out system: students tap their ID card and a fingerprint; live dashboards for guards and the hostel office, curfew rules, late-return email alerts, works through network outages | Python · FastAPI · SQLite · WebSockets · Docker |
+| **mess-attendance** | Offline meal attendance for 4 messes: reads roll number, name and photo directly from the ID card chip; detects duplicates and expired cards; admin reports | Python · Flask · Electron · SQLite · NFC |
+| **jarvis-voice-assistant** | Voice AI assistant with an offline wake word, speech in and out, and tool use | Python · Claude API · Vosk · ONNX |
 
 ## 🛠️ Tech stack
 
